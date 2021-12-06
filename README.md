@@ -76,7 +76,7 @@ A Moog Sub37 is being triggered by the MIDI triggered by the Arduino Joystick.
 
 ### Arduino MEGA 2560 – Software
 
-1. Open the provided [ArduinoMEGA_Main.ino](https://github.com/dcardonab/relationships_between_images_sound_and_physical_controllers/blob/master/ArduinoMEGA_Main/ArduinoMEGA_Main.ino) script.
+1. Open the provided [ArduinoMEGA_Main.ino](/blob/master/ArduinoMEGA_Main/ArduinoMEGA_Main.ino) script.
 
 2. In the toolbar, go to 'Tools' > 'Board' > 'Arduino Mega or Mega 2560' to configure the IDE to send information to the MEGA 2560 board.
 
@@ -87,7 +87,7 @@ A Moog Sub37 is being triggered by the MIDI triggered by the Arduino Joystick.
 
 ### Arduino UNO – Software
 
-1. Open the provided [ArduinoUNO_SerialThruPort.ino](https://github.com/dcardonab/relationships_between_images_sound_and_physical_controllers/blob/master/ArduinoUNO_SerialThruPort/ArduinoUNO_SerialThruPort.ino) script.
+1. Open the provided [ArduinoUNO_SerialThruPort.ino](/blob/master/ArduinoUNO_SerialThruPort/ArduinoUNO_SerialThruPort.ino) script.
 
 2. In the toolbar, go to 'Tools' > 'Board' > 'Arduino Uno' to configure the IDE to send information to the UNO board.
 
@@ -115,7 +115,7 @@ A Moog Sub37 is being triggered by the MIDI triggered by the Arduino Joystick.
 
 2. Make sure the OscP5 library is installed to enable communication between Max and Processing via UDP.
 
-4. Open the provided [Processing_audioGraphics.pde](https://github.com/dcardonab/relationships_between_images_sound_and_physical_controllers/blob/master/Processing_AudioGraphics/Processing_AudioGraphics.pde) sketch in Processing.
+4. Open the provided [Processing_audioGraphics.pde](/blob/master/Processing_AudioGraphics/Processing_AudioGraphics.pde) sketch in Processing.
 
 5. Run the sketch by pressing the button in the top left of the Processing window.
 
@@ -135,7 +135,7 @@ A Moog Sub37 is being triggered by the MIDI triggered by the Arduino Joystick.
 
 3. Make sure the 64-bit version of the bonk~ object for Max is installed.
 
-4. Open the provided [Max_Host.maxpat](https://github.com/dcardonab/relationships_between_images_sound_and_physical_controllers/tree/master/Max_Host) patch in Max.
+4. Open the provided [Max_Host.maxpat](/tree/master/Max_Host) patch in Max.
 
 5. Click on the 'Print Serial Ports to Max Console' button, and go to the Max Console to identify which port corresponds to the Arduino MEGA 2560 USB serial port.
 
